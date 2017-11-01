@@ -1,0 +1,20 @@
+https://www.journaldev.com/2888/spring-tutorial-spring-core-tutorial
+
+https://intellipaat.com/interview-question/spring-interview-questions/
+
+https://www.journaldev.com/2696/spring-interview-questions-and-answers
+
+https://career.guru99.com/top-50-spring-questions-and-answers/
+
+===============IMP Questions===============
+*  What is AOP??
+*  What is IOC??
+*  What is bean??What is default scope of a bin??
+* different bean scope
+* @Autowired annotation
+* benefits of using spring
+
+
+*********************VIDEOS******************
+https://www.youtube.com/watch?v=GB8k2-Egfv0&list=PLC97BDEFDCDD169D7
+https://www.youtube.com/watch?v=QdyLsX0nG30&list=PLC97BDEFDCDD169D7&index=24
