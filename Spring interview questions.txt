@@ -27,3 +27,6 @@ https://www.dineshonjava.com/hibernate/crud-operations-using-hibernate-3/
 
 =============================we gonna do this project final =========================
 https://www.dineshonjava.com/spring-mvc-with-hibernate-crud-example/
+
++++++++++json crud
+https://www.dineshonjava.com/spring-restful-web-services-json-crud-example/
