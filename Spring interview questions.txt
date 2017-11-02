@@ -18,3 +18,7 @@ https://career.guru99.com/top-50-spring-questions-and-answers/
 *********************VIDEOS******************
 https://www.youtube.com/watch?v=GB8k2-Egfv0&list=PLC97BDEFDCDD169D7
 https://www.youtube.com/watch?v=QdyLsX0nG30&list=PLC97BDEFDCDD169D7&index=24
+
+
+example for project vvimp****
+https://www.journaldev.com/3531/spring-mvc-hibernate-mysql-integration-crud-example-tutorial
