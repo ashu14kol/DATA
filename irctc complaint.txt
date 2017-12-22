@@ -1,0 +1,64 @@
+Transaction ID:  100001095294333
+Train No./Name:  22106/INDRAYANI EXP	
+Date of Booking:  22-Dec-2017
+Date of Journey: 29-Dec-2017
+Date Of Boarding:  29-Dec-2017	
+Date of Arrival:  29-Dec-2017
+From:  PUNE JN (PUNE)	To:  KALYAN JN (KYN)
+Boarding At:  PUNE JN (PUNE)
+Resv Upto: KALYAN JN (KYN)
+Quota:  GENERAL (GN)	
+Class:  SECOND SITTING (2S)
+Payment Status: Payment Requested	
+Bank Name:  Credit & Debit cards / Net Banking / Wallet (Powered by PayU)
+Reservation Status:  Not Booked
+Transaction Amount:90.0
+No. of Adults: 1	
+No. of Children:  0
+Ticket Type:E-ticket
+
+
+
+
+
+
+Transaction ID:  100001086215983
+Train No./Name:  22105/INDRAYANI EXP	
+Date of Booking:  15-Dec-2017
+Date of Journey: 25-Dec-2017	
+Date Of Boarding:  25-Dec-2017	
+Date of Arrival:  25-Dec-2017
+From:  KALYAN JN (KYN)	To:  PUNE JN (PUNE)	
+Boarding At:  KALYAN JN (KYN)
+Resv Upto: PUNE JN (PUNE)	
+Quota:  GENERAL (GN)	
+Class:  SECOND SITTING (2S)
+Payment Status: Payment Failed	
+Bank Name:  Credit & Debit cards / Net Banking / Wallet (Powered by PayU)	
+Reservation Status:  Not Booked
+Transaction Amount:90.0	
+No. of Adults: 1
+No. of Children:  0
+Ticket Type:E-ticket
+
+
+
+
+
+
+
+
+
+
+
+
+Dear sir/Madam,
+	I tried to book following two tickets in which payment failed and reservation is not booked still money is deducted from my bank account.
+	Following are the bank transaction details
+	
+	Please look forward to return my money back soon
+	
+	Thank you!
+	
+Name: Ashwini Kolhe
+contact no : 9022930711
