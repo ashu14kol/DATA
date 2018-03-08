@@ -1,0 +1,10 @@
+http://www.msn.com/en-in/lifestyle/smart-living/20-things-to-never-say-at-a-job-interview-and-why/ss-AAfdB0p?li=AAggbRN&ocid=iehp#image=9
+
+************ for email schedular*************
+https://www.java4s.com/core-java/send-java-email-in-specific-time-interval-automatically-dynamically/
+
+https://www.javacodegeeks.com/2011/06/spring-quartz-javamail-tutorial.html
+
+http://www.opencodez.com/java/quartz-scheduler-with-spring-boot.htm
+
+https://examples.javacodegeeks.com/enterprise-java/quartz/quartz-cron-schedule-example/
